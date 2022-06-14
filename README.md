@@ -1,6 +1,6 @@
 # Hi !
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Flo-CS/Flo-CS/blob/master/devcard.svg" width="400" alt="Flo-CS's Dev Card"/></a>
+<a href="https://app.daily.dev/FloCS"><img src="https://github.com/Flo-CS/Flo-CS/blob/main/devcard.svg" width="400" alt="Flo-CS's Dev Card"/></a>
 
 <!--
 **Flo-CS/Flo-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
