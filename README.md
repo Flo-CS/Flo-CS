@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Bookmarks manager](https://github.com/Flo-CS/bookmarks-manager)
 
-- 🌱 I’m currently learning and improving **TypeScript & React**
+- 🌱 I’m currently learning and improving on **JavaScript, TypeScript & React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Flo-CS](https://github.com/Flo-CS)
 
