@@ -1,6 +1,5 @@
 <h1 align="center">Hi ! I'm Florian</h1>
 <h3 align="center">A French student with a passion for development and computer science</h3>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=flo-cs&label=Profile%20views&color=0e75b6&style=flat" alt="flo-cs" /> </p>
 
 - 🔭 I’m currently working on [Bookmarks manager](https://github.com/Flo-CS/bookmarks-manager)
 - 🌱 I’m currently learning and improving on **JavaScript, TypeScript & React**
