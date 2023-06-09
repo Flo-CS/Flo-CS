@@ -12,5 +12,3 @@
 
 <h3 align="left">Stats</h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=flo-cs&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="flo-cs"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=flo-cs&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="flo-cs"/>
-<a align="right" href="https://app.daily.dev/FloCS"><img src="https://github.com/Flo-CS/Flo-CS/blob/main/devcard.svg" width="200" alt="Flo-CS's Dev Card"/></a>
